@@ -1,5 +1,4 @@
-const virtex = (prefix, pushname) => {
-	return `Te comistes el troleo 🤙🤪
+Te comistes el troleo 🤙🤪
 
 
 
